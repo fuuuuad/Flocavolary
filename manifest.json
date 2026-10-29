@@ -1,0 +1,10 @@
+{
+  "name": "Flocabulary Master",
+  "short_name": "Flocabulary",
+  "description": "Offline-first vocabulary quiz and personal vocabulary database",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5"
+}
